@@ -47,7 +47,7 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
 </div>
 
    ### Borrar boda
-  Una vez creada una boda, aparte de modificarla, también podemos borrarla, optando por la tercera opción de la pantalla Main. Para poder modificar una boda los novios deberán introducir su correo y contraseña que usaron para crear la boda, pulsar postoriormente el botón "ELIMINAR BODA" y posteriormente confirmar el popUp.
+  Una vez creada una boda, aparte de modificarla, también podemos borrarla, optando por la tercera opción de la pantalla Main. Para poder borrar una boda los novios deberán introducir su correo y contraseña que usaron para crear la boda, pulsar postoriormente el botón "ELIMINAR BODA" y después confirmar el popUp.
 
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/BorrarBoda.gif" width="250px">
   
