@@ -1,0 +1,64 @@
+@font-face {
+    font-family: Amatic SC;
+    src: local("src\assets\AmaticSC-Bold.ttf");
+    }
+
+.title {
+    margin-top: 50px;
+    font-size: 2.5em;
+    font-family: "Amatic SC";
+}
+
+.titleChart {
+    margin-top: 60px;
+    margin-bottom: -70px;
+    font-size: 2em;
+    font-family: "Amatic SC";
+}
+
+.logo {
+    position:relative;
+}
+
+.label {
+    font-size: 2em;
+    font-family: "Amatic SC";
+    margin-left: 30px;
+}
+
+#fila1 {
+    margin-top: 130px;
+    border-left: 3px solid #39b0ff;
+	border-right: 3px solid #39b0ff;
+    border-top: 3px solid #39b0ff;
+    border-bottom: 3px solid #39b0ff;
+}
+
+#fila2 {
+    border-left: 3px solid #39b0ff;
+	border-right: 3px solid #39b0ff;
+    border-top: 0.5px solid #39b0ff;
+    border-bottom: 3px solid #39b0ff;
+}
+
+#fila3 {
+    border-left: 3px solid #39b0ff;
+	border-right: 3px solid #39b0ff;
+    border-top: 0.5px solid #39b0ff;
+    text-align: center;
+}
+
+#fila4 {
+    border-left: 3px solid #39b0ff;
+	border-right: 3px solid #39b0ff;
+    border-top: 3px solid #39b0ff;
+    text-align: center;
+}
+
+#fila5 {
+    border-left: 3px solid #39b0ff;
+	border-right: 3px solid #39b0ff;
+    border-bottom: 3px solid #39b0ff;
+    border-top: 3px solid #39b0ff;
+    text-align: center;
+}

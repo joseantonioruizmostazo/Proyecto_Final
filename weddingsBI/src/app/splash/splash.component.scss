@@ -1,0 +1,23 @@
+@keyframes animacionLogo{
+    from{
+        top:800px;}
+    to{
+        top:0px;}
+    }
+
+.title {
+    margin-top: 100px;
+    font-size: 2.5em;
+    font-family: 'Amatic SC', cursive;
+}
+.logo {
+    -webkit-animation-timing-function:ease-out;
+    animation-name: animacionLogo;
+    animation-duration: 19s;
+    animation-timing-function: linear;
+    position:relative;
+}
+
+.audio {
+   margin-top: 800px;
+}
