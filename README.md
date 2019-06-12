@@ -64,3 +64,10 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/Convite.gif" width="250px">
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/Contacto.png" width="250px">
 </div>
+
+### Fotos
+  Desde la pantalla principal de invitados también podemos acceder al apartado de fotos, donde se le explica al usuario que tipo de acciones pueden realizar ahí, que serán: ver, subir y descargar fotos.
+  
+<div>
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/SubirFoto.png" width="250px">
+</div>
