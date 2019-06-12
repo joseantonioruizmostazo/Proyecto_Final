@@ -106,3 +106,29 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
 <div>
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/GuardarFoto.gif" width="250px">
 </div>
+
+
+## Fin del funcionamiento de Weddings App(IOS)
+
+# WeddingsBI
+<img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/logo.png" width="150px">
+
+## Desarrollo y tecnologías
+Aplicación web dessarrollada en Angular 7:
+
+  - Base de datos: Cloud Firestore
+  - Herramienta de desarrollo: Visual Studio Code
+  - Lenguaje: TypeScript
+  
+## Introducción
+La aplicación es meramente informativa, es utilizada para la recavación de datos por parte del departamento BI(Bussines Intelligence). Los datos proceden de todas las bodas que hay registradas en Weddings App(IOS), con ellos esta aplicación web mostrará diferentes gráficos y demás datos que se utilizarán para la parte de BI.
+
+## Funcionamiento
+
+  ### Splash Screen y Main
+  Al iniciar la aplicación se muestra una pantalla a modo de splash que redirigirá a la pantalla Main donde se encuentran los gráficos.
+  
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/webSplash.gif" width="500px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/webMain.png" width="500px">
+
+
