@@ -22,3 +22,13 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/LoginViewController.png" width="250px">
 </div>
 
+   ### Crear boda
+  En el Main nos encontramos con 3 opciones, en principio vamos a crear una nueva boda rellenando los 4 pasos obligatorios para ello, obteniendo al final el pin de nuestra boda.
+<div>
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/CreateStep1.png" width="250px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/CreateStep2.gif" width="250px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/CreateStep3.gif" width="250px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/CreateStep4.gif" width="250px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/CreateComplete.gif" width="250px">
+</div>
+
