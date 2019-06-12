@@ -85,3 +85,10 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
 <div>
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/Galeria.gif" width="250px">
 </div>
+
+### Detalle foto
+  Si nos encontramos en la galería de fotos y hacemos click en una foto, navegaremos a otra pantalla donde veremos la foto ampliada y dos opciones: borrar la foto y guardar la foto.
+  
+<div>
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/DetalleFoto.png" width="250px">
+</div>
