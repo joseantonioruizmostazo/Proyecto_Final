@@ -17,8 +17,8 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
 
   ### Splash Screen y Main
   Al iniciar la aplicación se muestra una pantalla a modo de splash que redirigirá a la pantalla Main.
-  
-  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/SplashScreen.gif" width="300px">
-  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/LoginViewController.png" width="300px">
-
+<div>
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/SplashScreen.gif" width="250px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/LoginViewController.png" width="250px">
+</div>
 
