@@ -7,6 +7,7 @@ Proyecto final 2ºDAM_ 2019 que consta de dos aplicaciones, una móvil(IOS) y ot
 ## Desarrollo y tecnologías
 Aplicación móvil dessarrollada en IOS:
 
+  - Base de datos: Cloud Firestore (Auth & Storage)
   - Herramienta de desarrollo: Xcode 10
   - Lenguaje: Swift 4
   
@@ -17,6 +18,7 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
 
   ### Splash Screen y Main
   Al iniciar la aplicación se muestra una pantalla a modo de splash que redirigirá a la pantalla Main.
+  
 <div>
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/SplashScreen.gif" width="250px">
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/LoginViewController.png" width="250px">
@@ -24,6 +26,7 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
 
    ### Crear boda
   En el Main nos encontramos con 3 opciones, en principio vamos a crear una nueva boda rellenando los 4 pasos obligatorios para ello, obteniendo al final el pin de nuestra boda.
+  
 <div>
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/CreateStep1.png" width="250px">
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/CreateStep2.gif" width="250px">
@@ -34,6 +37,7 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
 
    ### Modificar boda
   Una vez creada una boda podemos modificarla, optando por la tercera opción de la pantalla Main. Para poder modificar una boda los novios deberán hacer login previamente con el correo y contraseña que usaron para crear la boda, de esa forma accederán a otro formulario que obtendrá todos los datos de su boda para no tener que modificar todos los campos sino solamente los que los novios quieran. Una vez finalizada la modificación de la boda se le recordará a los novios el pin de su boda que será el mismo que cuando la crearon.
+  
 <div>
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/ModifyStep1.png" width="250px">
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/ModifyStep2.gif" width="250px">
@@ -41,4 +45,9 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/ModifyStep4.gif" width="250px">
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/ModifyComplete.gif" width="250px">
 </div>
+
+   ### Borrar boda
+  Una vez creada una boda, aparte de modificarla, también podemos borrarla, optando por la tercera opción de la pantalla Main. Para poder modificar una boda los novios deberán introducir su correo y contraseña que usaron para crear la boda, pulsar postoriormente el botón "ELIMINAR BODA" y posteriormente confirmar el popUp.
+
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/BorrarBoda.gif" width="250px">
 
