@@ -32,3 +32,13 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/CreateComplete.gif" width="250px">
 </div>
 
+   ### Modificar boda
+  Una vez creada una boda podemos modificarla, optando por la tercera opción de la pantalla Main. Para poder modificar una boda los novios deberán hacer login previamente con el correo y contraseña que usaron para crear la boda, de esa forma accederán a otro formulario que obtendrá todos los datos de su boda para no tener que modificar todos los campos sino solamente los que los novios quieran. Una vez finalizada la modificación de la boda se le recordará a los novios el pin de su boda que será el mismo que cuando la crearon.
+<div>
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/ModifyStep1.png" width="250px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/ModifyStep2.gif" width="250px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/ModifyStep3.gif" width="250px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/ModifyStep4.gif" width="250px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/ModifyComplete.gif" width="250px">
+</div>
+
