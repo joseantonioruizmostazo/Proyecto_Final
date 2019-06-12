@@ -128,7 +128,9 @@ La aplicación es meramente informativa, es utilizada para la recavación de dat
   ### Splash Screen y Main
   Al iniciar la aplicación se muestra una pantalla a modo de splash que redirigirá a la pantalla Main donde se encuentran los gráficos.
   
-  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/webSplash.gif" width="500px">
-  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/webMain.png" width="500px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/webSplash.gif" width="1000px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/webMain.png" width="1000px">
 
 
+# FIN
+## Hasta aquí la presentación de mi proyecto final que engloba una App móvil en IOS y otra App web en Angular, espero que les haya gustado, muchas gracias.
