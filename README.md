@@ -71,3 +71,10 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
 <div>
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/Fotos.png" width="250px">
 </div>
+
+### Subir Foto
+  En la pantalla de fotos tenemos dos opciones, ir a la galería o subir una foto. En este caso subamos una foto.
+  
+<div>
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/SubirFoto.gif" width="250px">
+</div>
