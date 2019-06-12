@@ -99,3 +99,10 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
 <div>
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/BorrarFoto.gif" width="250px">
 </div>
+
+### Guardar foto
+  La otra opción disponible en la pantalla de detalle de la foto es la de guardar la foto, si hacemos click en el botón "GUARDAR", la foto se guardará en la galería del dispositivo automáticamente.
+  
+<div>
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/GuardarFoto.gif" width="250px">
+</div>
