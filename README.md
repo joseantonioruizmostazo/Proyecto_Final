@@ -92,3 +92,10 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
 <div>
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/DetalleFoto.png" width="250px">
 </div>
+
+### Borrar foto
+  En la pantalla del detalle de la foto, podemos hacer click en el icono de papelera en la esquina superior derecha para borrar la foto. Esta acción solo podrá llevarse a cabo por los novios introduciendo el correo y contraseña de la boda como una alerta indicará. La foto se borrará tanto de la base de datos como del storage de firebase.
+  
+<div>
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/BorrarFoto.gif" width="250px">
+</div>
