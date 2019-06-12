@@ -52,7 +52,15 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/BorrarBoda.gif" width="250px">
   
   ### Pantalla principal invitados boda
-  Proporcionado el pin a todos nuestros invitados, éstos podrán introducirlo en la pantalla Main, una vez introducido llegarán a la pantalla principal de invitados con la información de la boda.
+  Proporcionado el pin a todos nuestros invitados, éstos podrán introducirlo en la pantalla Main, una vez introducido llegarán a la pantalla principal de invitados con la información de la boda, donde podrán acceder a los distintos puntos de información.
 
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/PinView.png" width="250px">
 
+### Información de la boda
+  Habiendo accedido correctamente a la pantalla principal de invitados con el pin de la boda, podremos navegar hacia los distintos puntos de información como son: datos del enlace, datos del convite y datos de contacto de los novios.
+  
+<div>
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/Enlace.png" width="250px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/Convite.gif" width="250px">
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/Contacto.png" width="250px">
+</div>
