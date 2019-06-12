@@ -1,2 +1,2 @@
-# Proyecto_Final
+# Weddings & WeddingsBI
 Proyecto final 2ºDAM_ 2019 que consta de dos aplicaciones, una móvil(IOS) y otra web(Angular)
