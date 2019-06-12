@@ -50,4 +50,9 @@ La aplicación trata sobre la creación de bodas, donde los novios pueden indica
   Una vez creada una boda, aparte de modificarla, también podemos borrarla, optando por la tercera opción de la pantalla Main. Para poder modificar una boda los novios deberán introducir su correo y contraseña que usaron para crear la boda, pulsar postoriormente el botón "ELIMINAR BODA" y posteriormente confirmar el popUp.
 
   <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/BorrarBoda.gif" width="250px">
+  
+  ### Pantalla principal invitados boda
+  Proporcionado el pin a todos nuestros invitados, éstos podrán introducirlo en la pantalla Main, una vez introducido llegarán a la pantalla principal de invitados con la información de la boda.
+
+  <img src="https://github.com/joseantonioruizmostazo/Proyecto_Final/blob/master/img/PinView.png" width="250px">
 
